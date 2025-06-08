@@ -231,7 +231,7 @@ const App = () => {
           {/* Map View */}
           <div className="bg-white rounded-xl overflow-hidden shadow-sm mb-6 h-[500px] relative">
             <img 
-              src="https://readdy.ai/api/search-image?query=Detailed%20city%20map%20of%20San%20Francisco%20with%20streets%2C%20landmarks%2C%20and%20navigation%20route%20shown%20with%20blue%20line%2C%20satellite%20view%20style%20map%20with%20clear%20street%20names%20and%20highway%20markers&width=400&height=500&seq=2&orientation=portrait" 
+              src="https://api/search-image?query=Detailed%20city%20map%20of%20San%20Francisco%20with%20streets%2C%20landmarks%2C%20and%20navigation%20route%20shown%20with%20blue%20line%2C%20satellite%20view%20style%20map%20with%20clear%20street%20names%20and%20highway%20markers&width=400&height=500&seq=2&orientation=portrait" 
               alt="Delivery Route Map" 
               className="w-full h-full object-cover"
             />
@@ -253,7 +253,7 @@ const App = () => {
               <div className="flex items-center">
                 <div className="w-12 h-12 rounded-full bg-gray-300 overflow-hidden mr-3">
                   <img 
-                    src="https://readdy.ai/api/search-image?query=Professional%20headshot%20of%20delivery%20driver%2C%20male%2C%20wearing%20uniform%2C%20friendly%20smile%2C%20neutral%20background%2C%20high%20quality%20portrait%20photo&width=100&height=100&seq=3&orientation=squarish" 
+                    src="https://api/search-image?query=Professional%20headshot%20of%20delivery%20driver%2C%20male%2C%20wearing%20uniform%2C%20friendly%20smile%2C%20neutral%20background%2C%20high%20quality%20portrait%20photo&width=100&height=100&seq=3&orientation=squarish" 
                     alt="Driver" 
                     className="w-full h-full object-cover"
                   />
